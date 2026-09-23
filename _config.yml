@@ -1,5 +1,10 @@
 title: "NeuroSTA"
 description: "Neuroimaging and Speech using Transdiagnostic Approaches"
+
+url: "https://neurosta.github.io"
+baseurl: "/NeuroSTA"
+
+
 theme: minima
 markdown: kramdown
 
