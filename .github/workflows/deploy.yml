@@ -1,0 +1,30 @@
+
+name: Deploy NeuroSTA website
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out website source
+        uses: actions/checkout@v4
+
+      - name: Build Jekyll website
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Deploy to original NeuroSTA repository
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.WEBSITE_DEPLOY_TOKEN }}
+          external_repository: NeuroSTA/NeuroSTA
+          publish_branch: gh-pages
+          publish_dir: ./_site
