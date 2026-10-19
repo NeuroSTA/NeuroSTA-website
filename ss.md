@@ -3,7 +3,7 @@ title: Svenja Seuffert
 layout: page
 ---
 
-**Research Assistant & PhD Researcher**  
+**PhD student**  
 Department of Psychiatry and Psychotherapy  
 Philipps-Universität Marburg, Germany  
 [ORCID: 0009-0007-2230-4741](https://orcid.org/0009-0007-2230-4741)
