@@ -55,11 +55,11 @@ Our approach integrates:
 ---
 
 ## Current Research Projects
-- Acoustic Speech Alterations Across Psychiatric Disorders: Task dependence and clinical associations, led by [Svenja Seuffert]
-- Longitudinal Stability and Prospective Validity of Data-Driven Subtype and Disease Stage Inference in a Transdiagnostic Psychiatric Sample, led by [Jannik Lepper]
-- Dynamic Speech Organization: A Transdiagnostic Analysis Using Large Language Model Perplexity and Hidden Markov Models, led by [Agata Mrozek]
-- Uncovering Brain Networks of Data-Driven Cognitive Subtypes: Network-Based Analysis of Resting-State fMRI, led by [Alina Nostadt]
-- Identifying Dynamic Brain Function Networks Associated with Distinct Dimensions of Spontaneous Speech in a Transdiagnostic Sample, led by [Rieke Mülfarth]
+- Acoustic Speech Alterations Across Psychiatric Disorders: Task dependence and clinical associations, led by [Svenja Seuffert](ss.md)
+- Longitudinal Stability and Prospective Validity of Data-Driven Subtype and Disease Stage Inference in a Transdiagnostic Psychiatric Sample, led by [Jannik Lepper](jl.md)
+- Dynamic Speech Organization: A Transdiagnostic Analysis Using Large Language Model Perplexity and Hidden Markov Models, led by [Agata Mrozek](am.md)
+- Uncovering Brain Networks of Data-Driven Cognitive Subtypes: Network-Based Analysis of Resting-State fMRI, led by [Alina Nostadt](an.md)
+- Identifying Dynamic Functional Brain Networks Associated with Distinct Dimensions of Spontaneous Speech in a Transdiagnostic Sample, led by [Rieke Mülfarth](rm.md)
 
 
 ---
