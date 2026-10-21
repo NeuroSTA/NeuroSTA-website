@@ -1,7 +1,7 @@
 ---
 title: ""
 tab_title: "Rieke Mülfarth"
-layout: page
+layout: default
 ---
 
 <p align="center">
