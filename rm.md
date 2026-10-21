@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rieke Mülfarth
+title: ""
 ---
 
 <p align="center">
