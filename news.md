@@ -8,6 +8,7 @@ title: "News & Updates"
 Stay up to date with recent developments, publications, awards, talks, and activities from our research group.  
 
 ---
+<br>
 
 ## 2026
 
@@ -18,14 +19,14 @@ Stay up to date with recent developments, publications, awards, talks, and activ
 ## 🌍 October 2026 – Research Stay at UMCG, Groningen
 
 <p style="text-align: justify;">
-<b>Svenja Seuffert</b> (PhD candidate, NeuroSTA) received a <b>research stay grant from the RTG of CRC/TRR 393</b> for a research visit at the <b>University Medical Center Groningen (UMCG), Netherlands</b>, in October 2026.
+<b>Svenja Seuffert</b> (PhD candidate) received a <b>research stay grant from the RTG of CRC/TRR 393</b> for a research visit at the <b>University Medical Center Groningen (UMCG), Netherlands</b>, in October 2026.
 </p>
 
 <p style="text-align: justify;">
 During her stay, she is working on automated speech analysis in psychiatric disorders, with a focus on acoustic features and machine learning approaches. The visit also provides an opportunity to exchange methods and strengthen the collaboration between the research groups in Marburg and Groningen.
 </p>
 
-<br><br>
+<br>
 
 <!-- ===================== DISCOURSE – MARCH 2026 ===================== -->
 
@@ -43,9 +44,10 @@ The meeting, titled <i>“Language and Thought in the Brain and in Mental Health
 The travel grant was supported by the European Union's <b>Educating Future Citizens (EFC)</b> initiative, which promotes international mobility and interdisciplinary training for early-career researchers.
 </p>
 
-<br><br>
+<br>
 
 ---
+<br>
 
 ## 2025  
 
@@ -61,14 +63,14 @@ The travel grant was supported by the European Union's <b>Educating Future Citiz
 </p>
 
 <p style="text-align: justify;">
-The retreat brought together early-career researchers from all CRC/TRR 393 sites and the International Research Training Group 2773, featuring nearly 70 posters across several scientific sessions. Posters were evaluated on scientific excellence, clarity of presentation, and design.
+The retreat brought together early-career researchers from all CRC/TRR393 sites and the International Research Training Group 2773, featuring nearly 70 posters across several scientific sessions. Posters were evaluated on scientific excellence, clarity of presentation, and design.
 </p>
 
 <p style="text-align: justify;">
 <b>Congratulations to Alina on this well-deserved recognition!</b>
 </p>
 
-<br><br>
+<br>
 
 <!-- ===================== DISCOURSE – APR 2025 ===================== -->
 
