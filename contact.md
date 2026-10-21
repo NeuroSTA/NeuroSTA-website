@@ -14,6 +14,6 @@ Rudolf-Bultmann-Str. 8,
 
 Marburg, Hesse, 35039, Germany
 
-📧 *neurosta@uni-marburg.de*
+📧 *neurosta@uni-marburg.de* or *steinfre@uni-marburg.de*
 
 🌐 *https://neurosta.github.io/NeuroSTA/*
