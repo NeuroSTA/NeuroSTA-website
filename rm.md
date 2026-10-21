@@ -1,7 +1,8 @@
 ---
-layout: default
-title: ""
+layout: page
+title: Rieke Mülfarth
 ---
+
 <p align="center">
   <img src="{{ '/rm_bild.jpg' | relative_url }}" width="200" style="border-radius: 50%;">
 </p>
