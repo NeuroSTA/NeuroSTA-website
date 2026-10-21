@@ -9,6 +9,44 @@ Stay up to date with recent developments, publications, awards, talks, and activ
 
 ---
 
+## 2026
+
+<br>
+
+<!-- ===================== RESEARCH STAY – OCT 2026 ===================== -->
+
+## 🌍 October 2026 – Research Stay at UMCG, Groningen
+
+<p style="text-align: justify;">
+<b>Svenja Seuffert</b> (PhD candidate, NeuroSTA) received a <b>research stay grant from the RTG of CRC/TRR 393</b> for a research visit at the <b>University Medical Center Groningen (UMCG), Netherlands</b>, in October 2026.
+</p>
+
+<p style="text-align: justify;">
+During her stay, she is working on automated speech analysis in psychiatric disorders, with a focus on acoustic features and machine learning approaches. The visit also provides an opportunity to exchange methods and strengthen the collaboration between the research groups in Marburg and Groningen.
+</p>
+
+<br><br>
+
+<!-- ===================== DISCOURSE – MARCH 2026 ===================== -->
+
+## 🏆 March 2026 – IUSS Travel Grant for DISCOURSE in Psychosis (Pavia, Italy)
+
+<p style="text-align: justify;">
+<b>Svenja Seuffert</b> (PhD candidate) received an <b>International Travel Grant from the University School for Advanced Studies IUSS Pavia</b> to attend the <b>4th DISCOURSE in Psychosis Consortium Satellite Meeting</b>, held on March 30–31, 2026, in Pavia, Italy.
+</p>
+
+<p style="text-align: justify;">
+The meeting, titled <i>“Language and Thought in the Brain and in Mental Health,”</i> brought together international researchers from psychiatry, neuroscience, psychology, and linguistics to discuss advances in understanding thought and language disturbances in psychosis.
+</p>
+
+<p style="text-align: justify;">
+The travel grant was supported by the European Union's <b>Educating Future Citizens (EFC)</b> initiative, which promotes international mobility and interdisciplinary training for early-career researchers.
+</p>
+
+<br><br>
+
+---
+
 ## 2025  
 
 <br>
