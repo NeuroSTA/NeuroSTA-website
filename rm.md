@@ -25,7 +25,7 @@ ORCID: <a href="https://orcid.org/0009-0001-8425-0431" target="_blank">0009-0001
 
 <br><br>
 
-<div style="text-align: justify;"markdown="1">
+<div style="text-align: justify; "markdown="1">
 
 I’m a linguist, and my research focuses on latent linguistic parameters and their association with psychopathology, cognition, and brain structure in affective and psychotic disorders. 
 By combining linguistic feature extraction using Natural Language Processing (NLP) with methods such as network analysis, diffusion-MRI-based connectomics, I am following an interdisciplinary approach that integrates linguistics, psychiatry, and computational neuroscience. 
