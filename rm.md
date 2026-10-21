@@ -43,7 +43,7 @@ In addition, now I am a part of the Collaborative Research Center <a href="https
 
 ### Publications  
 
-1. Palominos, C., Fröhlich, K., **Mülfarth, R. R., Seuffert, S.**, Brochhagen, T., **Stein**, F., Kircher, T., Sommer, I. E., Homan, P., & Hinzen, W. (2026). Co-reference and the topology of meaning in schizophrenia and depression. **Schizophrenia**. Advance online publication. doi: 10.1038/s41537-026-00802-6.
+1. Palominos, C., Fröhlich, K., **Mülfarth, R. R., Seuffert, S.**, Brochhagen, T., **Stein, F.**, Kircher, T., Sommer, I. E., Homan, P., & Hinzen, W. (2026). Co-reference and the topology of meaning in schizophrenia and depression. **Schizophrenia**. Advance online publication. doi: 10.1038/s41537-026-00802-6.
    
 2. Tan, R., **Stein, F.**, Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Javaheripour, N., **Mülfarth, R. R., Seuffert, S.**, Shen, Y., Qian, Z., Hahn, T., Meinert, S., Flinkenflügel, K., Borgers, T., Grotegerd, D., Leehr, E. J., Jamalabadi, H., Nenadić, I., Straube, B., … Kircher, T. (2026). The role of social support in transdiagnostic symptom networks in affective and psychotic disorders: A cross-sectional and longitudinal network analysis. **European Archives of Psychiatry and Clinical Neuroscience**. Advance online publication. doi: 10.1007/s00406-026-02389-6.
 
