@@ -21,7 +21,7 @@ layout: page
 Philipps-University Marburg, Germany<br>
 ORCID: <a href="https://orcid.org/0009-0001-8425-0431" target="_blank">0009-0001-8425-0431</a> <br>
 
-📧 <a href="r.r.muelfarth@uni-marburg.de" target="_blank">r.r.muelfarth@uni-marburg.de, <a href="https://www.linkedin.com/in/rieke-mülfarth" target="_blank">LinkedIn</a> 
+📧 r.r.muelfarth@uni-marburg.de, <a href="https://www.linkedin.com/in/rieke-mülfarth" target="_blank">LinkedIn</a> 
 
 <br><br>
 
