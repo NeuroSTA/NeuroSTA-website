@@ -1,6 +1,5 @@
 ---
 title: ""
-tab_title: "Rieke Mülfarth"
 layout: default
 ---
 
