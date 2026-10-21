@@ -19,10 +19,10 @@ layout: page
 <p>
 🏛️ Department of Psychiatry and Psychotherapy<br>
 Philipps-University Marburg, Germany<br>
-ORCID: <a href="https://orcid.org/0009-0001-8425-0431" target="_blank">0009-0001-8425-0431</a> <br><br>
+ORCID: <a href="https://orcid.org/0009-0001-8425-0431" target="_blank">0009-0001-8425-0431</a> <br>
 
+📧 <a href="r.r.muelfarth@uni-marburg.de" target="_blank">r.r.muelfarth@uni-marburg.de, <a href="https://www.linkedin.com/in/rieke-mülfarth" target="_blank">LinkedIn</a> 
 
-📧 r.r.muelfarth@uni-marburg.de
 </p>
 
 <div style="text-align: justify;">
