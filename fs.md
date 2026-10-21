@@ -26,14 +26,13 @@ ORCID: 0000-0002-5052-6022<br><br>
 <h3>About My Research</h3>
 
 <div style="text-align: justify;">
+I am a neuroscientist and linguist investigating the neurobiological and cognitive mechanisms underlying psychopathology across affective and psychotic disorders. My research takes a transdiagnostic and longitudinal perspective, integrating multimodal neuroimaging, detailed clinical phenotyping, computational linguistics, and machine learning to better understand symptom dimensions, individual differences, and the course of mental disorders.
 
-I’m a neuroscientist and linguist studying transdiagnostic symptom dimensions and disease trajectories in affective and psychotic disorders. My research integrates multimodal neuroimaging, computational psychiatry, and speech- and language-based markers to better understand how mental disorders emerge, evolve, and can be recognized across diagnostic boundaries. A central focus of my work is on speech and language as dynamic indicators of symptom severity and illness course, combining acoustic, linguistic, and semantic features with advanced statistical and machine-learning approaches.
+A particular focus of my work is on speech and language as quantitative markers of psychopathology, especially formal thought disorder. By combining acoustic, linguistic, and semantic features of natural speech with neuroimaging and clinical data, I aim to identify how language reflects underlying brain function, symptom severity, and clinical change. More broadly, I am interested in developing dynamic, biologically informed markers that can improve the characterization and prediction of psychiatric illness.
 
-I am actively involved in the Collaborative Research Center <a href="https://www.uni-marburg.de/en/trr-393" target="_blank">CRC/TRR 393 “Trajectories of Affective Disorders”</a>, where I contribute to projects investigating the temporal development of psychopathology and its neurobiological underpinnings. In addition, I participate in several externally funded research projects aimed at identifying dimensional, biologically informed markers of psychiatric disorders using large-scale datasets.
+I am a Principal Investigator within the Collaborative Research Center CRC/TRR 393 “Trajectories of Affective Disorders” <a href="https://www.uni-marburg.de/en/trr-393" target="_blank">CRC/TRR 393 “Trajectories of Affective Disorders”</a>, where I co-lead the Information Infrastructure project, supporting large-scale, multisite research through data integration, quality assurance, and data sharing. My scientific work also draws on deeply phenotyped longitudinal cohorts, including FOR2107, to investigate shared and disorder-specific mechanisms across diagnostic boundaries.
 
-I am deeply committed to interdisciplinary teaching and mentoring, supervising students across medicine, psychology, linguistics, and neuroscience. Ultimately, my work aims to bridge clinical phenomenology, neurobiology, and computational models, advancing towards a more precise and dynamic understanding of mental disorders.
-
-</div>
+Alongside my research, I am committed to interdisciplinary teaching and mentoring, supervising students and early-career researchers across medicine, psychology, neuroscience, and related disciplines. My overarching goal is to bridge clinical phenomenology, neurobiology, and computational approaches to advance a more precise, individualized, and dynamic understanding of mental disorders.
 
 <br><br>
 
