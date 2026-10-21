@@ -21,6 +21,7 @@ Our group brings together researchers from psychiatry, neuroscience, psychology,
 - [Jannik Lepper](jl.md)
 - [Rieke Mülfarth](rm.md)
 - [Svenja Seuffert](ss.md)
+- [Agata Mrozek](am.md)
 
 ---
 
@@ -31,6 +32,9 @@ Our group brings together researchers from psychiatry, neuroscience, psychology,
 - Clara Stuhldreier
 - Lea Theresa Kercher
 - Lisa Koob
+- Chiara Amella
+- Charlotte Kleinert
+- Leonie Bürger
   
 ---
 
