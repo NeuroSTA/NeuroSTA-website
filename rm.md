@@ -42,14 +42,20 @@ In addition, now I am a part of the Collaborative Research Center <a href="https
 
 ### Publications  
 
-1. **Mülfarth, R. R., Seuffert, S.**, Alexander, N., Jamalabadi, H., Nenadić, I., Straube, B., Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Dannlowski, U., Kircher, T., **Stein, F.**. Linking Spontaneous Speech, Cognition, and Psychopathology Across Affective and Psychotic Disorders: A Network Approach. **European Psychiatry**. 2026 Jan 23, doi:10.1192/j.eurpsy.2026.10151.
+1. Palominos, C., Fröhlich, K., **Mülfarth, R. R., Seuffert, S.**, Brochhagen, T., **Stein**, F., Kircher, T., Sommer, I. E., Homan, P., & Hinzen, W. (2026). Co-reference and the topology of meaning in schizophrenia and depression. **Schizophrenia**. Advance online publication. doi: https://doi.org/10.1038/s41537-026-00802-6.
+   
+2. Tan, R., **Stein, F.**, Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Javaheripour, N., **Mülfarth, R. R., Seuffert, S.**, Shen, Y., Qian, Z., Hahn, T., Meinert, S., Flinkenflügel, K., Borgers, T., Grotegerd, D., Leehr, E. J., Jamalabadi, H., Nenadić, I., Straube, B., … Kircher, T. (2026). The role of social support in transdiagnostic symptom networks in affective and psychotic disorders: A cross-sectional and longitudinal network analysis. **European Archives of Psychiatry and Clinical Neuroscience**. Advance online publication. doi: https://doi.org/10.1007/s00406-026-02389-6.
 
-2. **Seuffert, S.**, **Mülfarth, R. R.**, Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Alexander, N., Jamalabadi, H., Nenadić, I., Straube, B., 
+3. **Stein, F., Lepper, J., Mülfarth, R. R., Schepers, D., Seuffert, S.**, Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Borgers, T., Flinkenflügel, K., Goltermann, J., Grotegerd, D., Hubbert, J., Jurischka, C., Krieger, J., Meinert, S., Alexander, N., Hahn, T., Jamalabadi, H., … Kircher, T. (2026). Formal thought disorder in unipolar depression: Prevalence and functional brain correlates from a multimodal MRI study. **Journal of Affective Disorders**, 407, 121779, doi: 10.1016/j.jad.2026.121779.
+
+4. **Mülfarth, R. R., Seuffert, S.**, Alexander, N., Jamalabadi, H., Nenadić, I., Straube, B., Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Dannlowski, U., Kircher, T., **Stein, F.**. Linking Spontaneous Speech, Cognition, and Psychopathology Across Affective and Psychotic Disorders: A Network Approach. **European Psychiatry**. 2026 Jan 23, doi:10.1192/j.eurpsy.2026.10151.
+
+5. **Seuffert, S.**, **Mülfarth, R. R.**, Teutenberg, L., Thomas-Odenthal, F., Usemann, P., Alexander, N., Jamalabadi, H., Nenadić, I., Straube, B., 
 Hahn, T., Dannlowski, U., Kircher, T., & **Stein, F**. Linking speech patterns to brain structure in affective and psychotic disorders: an integrative natural language processing approach. **Mol Psychiatry** 2025 Nov 20. doi:10.1038/s41380-025-03347-9.
 
-3.	Mueller N, **Mülfarth R**, **Seuffert S**, Dannlowski U, Kircher T, Kauschke C, Nagels A, **Stein F**. Figurative language production in schizophrenia, bipolar disorder, and depression. **Psychiatry Res**. 2025 Oct 17;354:116772. doi: 10.1016/j.psychres.2025.116772.
+6.	Mueller N, **Mülfarth R**, **Seuffert S**, Dannlowski U, Kircher T, Kauschke C, Nagels A, **Stein F**. Figurative language production in schizophrenia, bipolar disorder, and depression. **Psychiatry Res**. 2025 Oct 17;354:116772. doi: 10.1016/j.psychres.2025.116772.
    
-4.	Palominos C, He R, Fröhlich K, **Mülfarth RR**, **Seuffert S**, Sommer IE, Homan P, Kircher T, **Stein F**, Hinzen W. Approximating the semantic space: word embedding techniques in psychiatric speech analysis. **Schizophrenia (Heidelb)**. 2024 Dec 2;10(1):114. doi: 10.1038/s41537-024-00524-7.
+7.	Palominos C, He R, Fröhlich K, **Mülfarth RR**, **Seuffert S**, Sommer IE, Homan P, Kircher T, **Stein F**, Hinzen W. Approximating the semantic space: word embedding techniques in psychiatric speech analysis. **Schizophrenia (Heidelb)**. 2024 Dec 2;10(1):114. doi: 10.1038/s41537-024-00524-7.
    
 ---
 
