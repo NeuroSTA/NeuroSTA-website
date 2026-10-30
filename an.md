@@ -2,7 +2,8 @@
 title: Dr. rer. nat. Alina Nostadt
 ---
 
-**Postdoctoral Researcher**<br>
+**Postdoctoral Researcher**<br><br>
+
 Investigation of cognitive processes and neural mechanisms of affective disorders from a transdiagnostic perspective using neuroimaging.<br><br>
 
 <strong>Academic Background</strong><br>
