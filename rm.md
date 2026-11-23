@@ -43,7 +43,7 @@ In addition, now I am a part of the Collaborative Research Center <a href="https
 
 ### Publications  
 
-1. Korda A, Andreou C, Mineur L, **Stein F**, Zhorzholiani M, Avram M, **Seuffert S, Mülfarth RR**, Martinetz T, Handels H, Sommer I, Homan P, Kircher T, Borgwardt S, Hinzen W. Real-time geometric complexity of language is associated with global functioning across psychosis and major depression. NPP Digit Psychiatry Neurosci. 2026 Nov 2;4(1):22. doi: 10.1038/s44277-026-00074-z.
+1. Korda A, Andreou C, Mineur L, **Stein F**, Zhorzholiani M, Avram M, **Seuffert S, Mülfarth RR**, Martinetz T, Handels H, Sommer I, Homan P, Kircher T, Borgwardt S, Hinzen W. Real-time geometric complexity of language is associated with global functioning across psychosis and major depression. **NPP Digit Psychiatry Neurosci**. 2026 Nov 2;4(1):22. doi: 10.1038/s44277-026-00074-z.
 
 2. Palominos, C., Fröhlich, K., **Mülfarth, R. R., Seuffert, S.**, Brochhagen, T., **Stein, F.**, Kircher, T., Sommer, I. E., Homan, P., & Hinzen, W. (2026). Co-reference and the topology of meaning in schizophrenia and depression. **Schizophrenia**. Advance online publication. doi: 10.1038/s41537-026-00802-6.
    
